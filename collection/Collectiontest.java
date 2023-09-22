@@ -57,7 +57,7 @@ public class Collectiontest {
 		c.setId(101);
 		c.setName("sami");
 		c.setMobileNo("0886466");
-
+ System.ouy.println("this is test");
 		Contact c1 = new Contact();
 		c1.setId(102);
 		c1.setName("name");
